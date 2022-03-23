@@ -1,3 +1,6 @@
+0.0.0.0 www.bonanza88.business
+0.0.0.0 128.199.25.237
+0.0.0.0 bolatks.club
 0.0.0.0	3g.qq.com
 0.0.0.0	a01.uadexchange.com
 0.0.0.0	abrts.pro
